@@ -1,2 +1,3 @@
-# Data-science
-ML and DeepLearning
+# deep learning  project 
+Garbage classification using deeplearning CNN
+
